@@ -29,7 +29,7 @@ Label(mainwin, text="Enter Text", font='arial 18 bold', bg= '#82CEC7').place(x=2
 Input_text = Text(mainwin, font='arial 13', bg='white', height=11, wrap=WORD, padx=5, pady=5, width=50, insertbackground='black')
 
 Inpu…
-[11:12 am, 06/07/2023] AYUSH SHARMA: from textblob import TextBlob
+[11:12 am, 06/07/2023] Karan Tiwari: from textblob import TextBlob
 
 from tkinter import *
 
